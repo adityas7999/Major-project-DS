@@ -2,7 +2,7 @@
 
 Predicting and visualising YouTube engagement using NLP sentiment, day-one hype and title structure.
 
-**Author:** <your name> | **Course:** Data Science Major Project
+**Author:** Aditya Shermale | **Course:** Data Science Major Project
 
 ## Data source (please read)
 
@@ -24,7 +24,6 @@ The data is downloaded automatically in Notebook 1 with `kagglehub`. Only videos
 | 2 | Structured Dataset | `cleaned_videos_v1.csv`, `cleaned_comments_v1.csv`, `master_dataset.csv` |
 | 3 | NLP Sentiment Model (tags comments "Relatable" / "Neutral") | `01_Data_Prep_and_NLP.ipynb` (VADER, threshold compound >= 0.4) |
 | 4 | Strategy Report | `Strategy_Report` file (see notes below) |
-| 5 | The Content Series | <fill in: see notes below> |
 
 ## Project modules
 
